@@ -72,8 +72,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🕵️ [Web Navigator](https://github.com/KAR2812/SARVA) | Agentic Gen-AI web automation assistant — interacts with real sites via voice/text | Python, Selenium, LLM |
-| 🔭 [DevRadar](https://github.com/KAR2812/spectrasynth) | Real-time CI/CD monitoring suite with WebSocket dashboards & flaky test detection | Node.js, React, Django, AWS |
+| 🕵️ [Web Navigator](https://github.com/KAR2812/web-navigator) | Agentic Gen-AI web automation assistant — interacts with real sites via voice/text | Python, Selenium, LLM |
+| 🔭 [DevRadar](https://github.com/KAR2812/Dev-Radar) | Real-time CI/CD monitoring suite with WebSocket dashboards & flaky test detection | Node.js, React, Django, AWS |
 | 🌿 [BHU-DHAARA](https://github.com/KAR2812/BHU-DHAARA) | (Hack4Health Finalist) | Dart/Flutter |
 
 ---
