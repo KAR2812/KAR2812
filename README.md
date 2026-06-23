@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech CSE @ **IIIT Pune** (2023–2027) | CGPA: **8.01**
+- 🎓 B.Tech CSE @ **IIIT Pune** (2023–2027) | CGPA: **8.13**
 - 💼 Former SWE Intern @ **Bluestock Fintech** — built ML models & high-performance APIs for real-time IPO data
 - 🤖 Deeply interested in **Agentic AI**, **RAG pipelines**, and **LLM-powered applications**
 - 🏆 Finalist @ **HacerX (Bajaj Finserv)** — Top 18/3500+ teams | Finalist @ **Hack4Health (IIIT Delhi)** — Top 7/2300+ teams
